@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://turquoise-coyote-s85qxadh.ws-eu03.gitpod.io",
+    "address": "https://tan-hummingbird-zm1lc4mb.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -79,7 +79,7 @@
         {
             "slug": "01.3-Print-the-last-one",
             "title": "01.3-Print-the-last-one",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-Print-the-last-one",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "01.4-Add-item-to-list",
             "title": "01.4-Add-item-to-list",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-Add-item-to-list",
             "translations": [
                 "es",
