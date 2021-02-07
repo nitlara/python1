@@ -112,7 +112,7 @@
         {
             "slug": "02-Loop-list",
             "title": "02-Loop-list",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Loop-list",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "02.2-Loop-adding-two",
             "title": "02.2-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-Loop-adding-two",
             "translations": [
                 "es",
@@ -145,7 +145,7 @@
         {
             "slug": "02.3-loop-from-the-half-to-the-end",
             "title": "02.3-loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/02.3-loop-from-the-half-to-the-end",
             "translations": [
                 "es",
