@@ -101,7 +101,7 @@
         {
             "slug": "01.5-loop-seventeen",
             "title": "01.5-loop-seventeen",
-            "done": false,
+            "done": true,
             "path": "exercises/01.5-loop-seventeen",
             "translations": [
                 "es",
