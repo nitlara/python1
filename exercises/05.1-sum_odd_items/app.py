@@ -6,9 +6,10 @@ arr = [4,5,734,43,45,100,4,56,23,67,23,58,45]
 def sumOdds(items):
     total= 0
     for x in range(0,len(items)):
-        if (x%2==1 ):
+        if (x % 2 != 0 ):
             total = total + items[x]
-            return total
+            print(items[x])
+    return total
         
       
 
