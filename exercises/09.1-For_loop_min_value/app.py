@@ -6,10 +6,10 @@ my_list = [3344,34334,454543,342534,4563456,3445,23455,234,262,2335,
 
 #Your code go from here:
 def minfromlist(element):
-    min=len(my_list)
+    min=element[0]
     for i in element:
         if (i < min):
-            min = int(i)
+            min = (i)
     return min
 
 print(minfromlist(my_list))

@@ -12,7 +12,7 @@ def merge_two_list(elements):
             odd.append(i)
     newlist=[]
     newlist= odd+even
-    return newlist
+    return odd,even
  
 
 print(merge_two_list(list_of_numbers))

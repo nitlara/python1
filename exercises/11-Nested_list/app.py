@@ -3,4 +3,8 @@ coordinatesList = [[33.747252,-112.633853],[-33.867886, -63.987],[41.303921, -81
 
 # Your code go here:
 
+def coor(list):
+    for element in list:
+        print(element[1])
 
+print(coor(coordinatesList))
