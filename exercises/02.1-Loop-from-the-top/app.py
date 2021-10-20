@@ -12,4 +12,4 @@ while my_list i > 0:
     print(my_sample_list[i])
 
 
-#NOT
+#NOT done
